@@ -5,11 +5,11 @@
 
 - 🔭 Estoy trabajando en: [https://github.com/CainFront](https://github.com/CainFront)
 
-- 🌱 Actualmente estoy aprendiendo: **Python y Linux.**
+- 🌱 Actualmente estoy aprendiendo: **Analista QA Manual.**
 
 - 👨‍💻 Mi Portfolio: [PROXIMAMENTE](PROXIMAMENTE)
 
-- 📫Puedes contactarme por: **https://www.linkedin.com/in/caincaamiña/**
+- 📫Puedes contactarme por: **https://www.linkedin.com/in/cain-caami%C3%B1a-analista-qa/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
